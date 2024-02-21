@@ -1,4 +1,4 @@
-Project Name: Mokoto Contacts App
+Project Name: Motoko Contacts App
 
 About me: https://www.linkedin.com/in/rezanicgil/
 
